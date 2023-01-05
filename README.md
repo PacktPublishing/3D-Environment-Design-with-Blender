@@ -1,2 +1,2 @@
-# Photorealistic-3D-Nature-Environment-Creation-with-Blender
-Photorealistic 3D Nature Environment Creation with Blender, published by Packt
+# 3D Environment Design with Blender
+3D Environment Design with Blender, published by Packt
