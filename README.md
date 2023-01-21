@@ -4,7 +4,7 @@
 
 This is the code repository for [3D Environment Design with Blender](https://www.packtpub.com/product/3d-environment-design-with-blender/9781803235851?utm_source=github&utm_medium=repository&utm_campaign=9781803235851), published by Packt.
 
-**Enhance your modeling, texturing, and lighting skills to create realistic 3D scenes	**
+**Enhance your modeling, texturing, and lighting skills to create realistic 3D scenes**
 
 ## What is this book about?
 Blender is a powerful tool for creating all kinds of visual assets, but with such power comes complexity. Creating a photorealistic 3D scene seems like a Herculean task for more than 90% of 3D designers, but don't be discouraged! 3D Environment Design with Blender will get you up and running. 
