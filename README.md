@@ -46,3 +46,8 @@ We also provide a PDF file that has color images of the screenshots/diagrams use
 ## Get to Know the Author
 **Abdelilah Hamdani** is a photorealistic environment designer and 3D animator who is experienced in producing 3D art in a professional environment. Projects he has worked on include the 2020 Kuwait election and the US Gambian bridge construction. Abdelilah is also an online instructor who has
 taught more than 25,000 students worldwide. He is the founder of Reality Fakers, a platform that teaches 3D photorealism.
+
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781803235851">https://packt.link/free-ebook/9781803235851 </a> </p>
